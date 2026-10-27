@@ -1,0 +1,237 @@
+{
+  "auditReportVersion": 2,
+  "vulnerabilities": {
+    "@atproto/api": {
+      "name": "@atproto/api",
+      "severity": "high",
+      "isDirect": false,
+      "via": [
+        "@atproto/common-web",
+        "@atproto/lexicon",
+        "@atproto/xrpc",
+        "zod"
+      ],
+      "effects": [
+        "@simple-post/sdk"
+      ],
+      "range": "*",
+      "nodes": [
+        "node_modules/@atproto/api"
+      ],
+      "fixAvailable": {
+        "name": "@simple-post/sdk",
+        "version": "1.3.1",
+        "isSemVerMajor": true
+      }
+    },
+    "@atproto/common-web": {
+      "name": "@atproto/common-web",
+      "severity": "high",
+      "isDirect": false,
+      "via": [
+        "zod"
+      ],
+      "effects": [
+        "@atproto/api",
+        "@atproto/lexicon"
+      ],
+      "range": "*",
+      "nodes": [
+        "node_modules/@atproto/common-web"
+      ],
+      "fixAvailable": {
+        "name": "@simple-post/sdk",
+        "version": "1.3.1",
+        "isSemVerMajor": true
+      }
+    },
+    "@atproto/lexicon": {
+      "name": "@atproto/lexicon",
+      "severity": "high",
+      "isDirect": false,
+      "via": [
+        "@atproto/common-web",
+        "zod"
+      ],
+      "effects": [
+        "@atproto/api"
+      ],
+      "range": "*",
+      "nodes": [
+        "node_modules/@atproto/lexicon"
+      ],
+      "fixAvailable": {
+        "name": "@simple-post/sdk",
+        "version": "1.3.1",
+        "isSemVerMajor": true
+      }
+    },
+    "@atproto/xrpc": {
+      "name": "@atproto/xrpc",
+      "severity": "high",
+      "isDirect": false,
+      "via": [
+        "@atproto/lexicon",
+        "zod"
+      ],
+      "effects": [
+        "@atproto/api"
+      ],
+      "range": "*",
+      "nodes": [
+        "node_modules/@atproto/xrpc"
+      ],
+      "fixAvailable": {
+        "name": "@simple-post/sdk",
+        "version": "1.3.1",
+        "isSemVerMajor": true
+      }
+    },
+    "@simple-post/sdk": {
+      "name": "@simple-post/sdk",
+      "severity": "high",
+      "isDirect": true,
+      "via": [
+        "@atproto/api",
+        "sharp"
+      ],
+      "effects": [],
+      "range": ">=1.3.2",
+      "nodes": [
+        "node_modules/@simple-post/sdk"
+      ],
+      "fixAvailable": {
+        "name": "@simple-post/sdk",
+        "version": "1.3.1",
+        "isSemVerMajor": true
+      }
+    },
+    "sharp": {
+      "name": "sharp",
+      "severity": "high",
+      "isDirect": false,
+      "via": [
+        {
+          "source": 1124066,
+          "name": "sharp",
+          "dependency": "sharp",
+          "title": "sharp inherited vulnerabilities in libvips: CVE-2026-33327, CVE-2026-33328, CVE-2026-35590, CVE-2026-35591",
+          "url": "https://github.com/advisories/GHSA-f88m-g3jw-g9cj",
+          "severity": "high",
+          "cwe": [
+            "CWE-1395"
+          ],
+          "cvss": {
+            "score": 0,
+            "vectorString": null
+          },
+          "range": "<0.35.0"
+        },
+        {
+          "source": 1193725,
+          "name": "sharp",
+          "dependency": "sharp",
+          "title": "sharp: Vulnerabilities in libheif: GHSA-g89c-p67h-r497 and GHSA-2jg2-4ch7-h545",
+          "url": "https://github.com/advisories/GHSA-rgj7-g3m4-5g8c",
+          "severity": "high",
+          "cwe": [
+            "CWE-122"
+          ],
+          "cvss": {
+            "score": 0,
+            "vectorString": null
+          },
+          "range": "<0.35.4"
+        },
+        {
+          "source": 1241331,
+          "name": "sharp",
+          "dependency": "sharp",
+          "title": "sharp : Vulnerability in librsvg dependency CVE-2026-96889",
+          "url": "https://github.com/advisories/GHSA-wq5f-xc86-pv6w",
+          "severity": "high",
+          "cwe": [
+            "CWE-416",
+            "CWE-1395"
+          ],
+          "cvss": {
+            "score": 0,
+            "vectorString": null
+          },
+          "range": "<0.35.5"
+        }
+      ],
+      "effects": [
+        "@simple-post/sdk"
+      ],
+      "range": "<=0.35.5-rc.1",
+      "nodes": [
+        "node_modules/sharp"
+      ],
+      "fixAvailable": {
+        "name": "@simple-post/sdk",
+        "version": "1.3.1",
+        "isSemVerMajor": true
+      }
+    },
+    "zod": {
+      "name": "zod",
+      "severity": "high",
+      "isDirect": false,
+      "via": [
+        {
+          "source": 1243066,
+          "name": "zod",
+          "dependency": "zod",
+          "title": "Zod can exhaust memory while validating oversized constrained collections",
+          "url": "https://github.com/advisories/GHSA-mrhx-c7xc-m3w5",
+          "severity": "high",
+          "cwe": [
+            "CWE-770"
+          ],
+          "cvss": {
+            "score": 7.5,
+            "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+          },
+          "range": "<4.6.6"
+        }
+      ],
+      "effects": [
+        "@atproto/api",
+        "@atproto/common-web",
+        "@atproto/lexicon",
+        "@atproto/xrpc"
+      ],
+      "range": "<4.6.6",
+      "nodes": [
+        "node_modules/@atproto/api/node_modules/zod",
+        "node_modules/@atproto/common-web/node_modules/zod",
+        "node_modules/@atproto/lexicon/node_modules/zod",
+        "node_modules/@atproto/xrpc/node_modules/zod"
+      ],
+      "fixAvailable": {
+        "name": "@simple-post/sdk",
+        "version": "1.3.1",
+        "isSemVerMajor": true
+      }
+    }
+  },
+  "metadata": {
+    "vulnerabilities": {
+      "info": 0,
+      "low": 0,
+      "moderate": 0,
+      "high": 7,
+      "critical": 0,
+      "total": 7
+    },
+    "dependencies": {
+      "prod": 294,
+      "dev": 0,
+      "optional": 35,
+      "peer": 1,
+      "peerOptional": 0,
+      "total": 329
+    }
+  }
+}

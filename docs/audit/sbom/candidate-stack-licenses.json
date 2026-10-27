@@ -1,0 +1,2102 @@
+{
+    "@atproto/api@0.19.19": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bluesky-social/atproto",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\api",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\api\\LICENSE.txt"
+    },
+    "@atproto/common-web@0.4.21": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bluesky-social/atproto",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\common-web",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\common-web\\LICENSE.txt"
+    },
+    "@atproto/lex-data@0.0.15": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bluesky-social/atproto",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\lex-data",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\lex-data\\LICENSE.txt"
+    },
+    "@atproto/lex-json@0.0.16": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bluesky-social/atproto",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\lex-json",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\lex-json\\LICENSE.txt"
+    },
+    "@atproto/lexicon@0.6.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bluesky-social/atproto",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\lexicon",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\lexicon\\LICENSE.txt"
+    },
+    "@atproto/syntax@0.5.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bluesky-social/atproto",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\syntax",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\syntax\\LICENSE.txt"
+    },
+    "@atproto/xrpc@0.7.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bluesky-social/atproto",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\xrpc",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\xrpc\\LICENSE.txt"
+    },
+    "@aws-sdk/checksums@3.1001.6": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\checksums",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\checksums\\LICENSE"
+    },
+    "@aws-sdk/client-s3@3.1157.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\client-s3",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\client-s3\\LICENSE"
+    },
+    "@aws-sdk/core@3.978.6": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\core",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\core\\LICENSE"
+    },
+    "@aws-sdk/credential-provider-env@3.972.77": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-env",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-env\\LICENSE"
+    },
+    "@aws-sdk/credential-provider-http@3.972.79": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-http",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-http\\README.md"
+    },
+    "@aws-sdk/credential-provider-ini@3.973.22": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-ini",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-ini\\LICENSE"
+    },
+    "@aws-sdk/credential-provider-login@3.972.84": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-login",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-login\\README.md"
+    },
+    "@aws-sdk/credential-provider-node@3.972.89": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-node",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-node\\LICENSE"
+    },
+    "@aws-sdk/credential-provider-process@3.972.77": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-process",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-process\\LICENSE"
+    },
+    "@aws-sdk/credential-provider-sso@3.973.21": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-sso",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-sso\\LICENSE"
+    },
+    "@aws-sdk/credential-provider-web-identity@3.972.83": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-web-identity",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\credential-provider-web-identity\\LICENSE"
+    },
+    "@aws-sdk/lib-storage@3.1157.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\lib-storage",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\lib-storage\\LICENSE"
+    },
+    "@aws-sdk/middleware-sdk-s3@3.972.82": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\middleware-sdk-s3",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\middleware-sdk-s3\\LICENSE"
+    },
+    "@aws-sdk/nested-clients@3.997.51": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\nested-clients",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\nested-clients\\README.md"
+    },
+    "@aws-sdk/s3-request-presigner@3.1157.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\s3-request-presigner",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\s3-request-presigner\\LICENSE"
+    },
+    "@aws-sdk/signature-v4-multi-region@3.996.49": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\signature-v4-multi-region",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\signature-v4-multi-region\\LICENSE"
+    },
+    "@aws-sdk/token-providers@3.1157.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\token-providers",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\token-providers\\LICENSE"
+    },
+    "@aws-sdk/types@3.975.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\types",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\types\\LICENSE"
+    },
+    "@aws-sdk/xml-builder@3.972.41": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/aws/aws-sdk-js-v3",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\xml-builder",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws-sdk\\xml-builder\\LICENSE"
+    },
+    "@aws/lambda-invoke-store@0.3.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/awslabs/aws-lambda-invoke-store",
+        "publisher": "Amazon Web Services",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws\\lambda-invoke-store",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@aws\\lambda-invoke-store\\LICENSE"
+    },
+    "@babel/runtime@7.29.10": {
+        "licenses": "MIT",
+        "repository": "https://github.com/babel/babel",
+        "publisher": "The Babel Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@babel\\runtime",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@babel\\runtime\\LICENSE"
+    },
+    "@hono/node-server@2.1.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/honojs/node-server",
+        "publisher": "Yusuke Wada",
+        "email": "yusuke@kamawada.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@hono\\node-server",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@hono\\node-server\\LICENSE"
+    },
+    "@img/colour@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/lovell/colour",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@img\\colour",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@img\\colour\\LICENSE.md"
+    },
+    "@img/sharp-win32-x64@0.34.5": {
+        "licenses": "Apache-2.0 AND LGPL-3.0-or-later",
+        "repository": "https://github.com/lovell/sharp",
+        "publisher": "Lovell Fuller",
+        "email": "npm@lovell.info",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@img\\sharp-win32-x64",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@img\\sharp-win32-x64\\LICENSE"
+    },
+    "@isaacs/cliui@8.0.2": {
+        "licenses": "ISC",
+        "repository": "https://github.com/yargs/cliui",
+        "publisher": "Ben Coe",
+        "email": "ben@npmjs.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@isaacs\\cliui",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@isaacs\\cliui\\LICENSE.txt"
+    },
+    "@modelcontextprotocol/sdk@1.32.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/modelcontextprotocol/typescript-sdk",
+        "publisher": "Anthropic, PBC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@modelcontextprotocol\\sdk",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@modelcontextprotocol\\sdk\\LICENSE"
+    },
+    "@msgpackr-extract/msgpackr-extract-win32-x64@3.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/kriszyp/msgpackr-extract",
+        "publisher": "Kris Zyp",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@msgpackr-extract\\msgpackr-extract-win32-x64",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@msgpackr-extract\\msgpackr-extract-win32-x64\\README.md"
+    },
+    "@opentelemetry/api@1.10.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/open-telemetry/opentelemetry-js",
+        "publisher": "OpenTelemetry Authors",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@opentelemetry\\api",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@opentelemetry\\api\\LICENSE"
+    },
+    "@pkgjs/parseargs@0.11.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/pkgjs/parseargs",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@pkgjs\\parseargs",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@pkgjs\\parseargs\\LICENSE"
+    },
+    "@simple-post/sdk@1.5.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/simple-post/core",
+        "publisher": "Vladimir Haltakov",
+        "email": "vlad@creafexlab.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\LICENSE"
+    },
+    "@smithy/core@3.37.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/smithy-lang/smithy-typescript",
+        "publisher": "AWS Smithy Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\core",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\core\\LICENSE"
+    },
+    "@smithy/credential-provider-imds@4.5.2": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/smithy-lang/smithy-typescript",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\credential-provider-imds",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\credential-provider-imds\\LICENSE"
+    },
+    "@smithy/fetch-http-handler@5.8.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/smithy-lang/smithy-typescript",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\fetch-http-handler",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\fetch-http-handler\\LICENSE"
+    },
+    "@smithy/node-http-handler@4.13.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/smithy-lang/smithy-typescript",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\node-http-handler",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\node-http-handler\\LICENSE"
+    },
+    "@smithy/signature-v4@5.7.4": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/smithy-lang/smithy-typescript",
+        "publisher": "AWS SDK for JavaScript Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\signature-v4",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\signature-v4\\LICENSE"
+    },
+    "@smithy/types@4.19.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/smithy-lang/smithy-typescript",
+        "publisher": "AWS Smithy Team",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\types",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@smithy\\types\\LICENSE"
+    },
+    "accepts@2.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/accepts",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\accepts",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\accepts\\LICENSE"
+    },
+    "agent-base@6.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/TooTallNate/node-agent-base",
+        "publisher": "Nathan Rajlich",
+        "email": "nathan@tootallnate.net",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\agent-base",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\agent-base\\README.md"
+    },
+    "agent-base@7.1.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/TooTallNate/proxy-agents",
+        "publisher": "Nathan Rajlich",
+        "email": "nathan@tootallnate.net",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\agent-base",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\agent-base\\LICENSE"
+    },
+    "ajv-formats@3.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ajv-validator/ajv-formats",
+        "publisher": "Evgeny Poberezkin",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ajv-formats",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ajv-formats\\LICENSE"
+    },
+    "ajv@8.20.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ajv-validator/ajv",
+        "publisher": "Evgeny Poberezkin",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ajv",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ajv\\LICENSE"
+    },
+    "ansi-regex@5.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/ansi-regex",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width-cjs\\node_modules\\ansi-regex",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width-cjs\\node_modules\\ansi-regex\\license"
+    },
+    "ansi-regex@6.4.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/ansi-regex",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ansi-regex",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ansi-regex\\license"
+    },
+    "ansi-styles@4.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/ansi-styles",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\wrap-ansi-cjs\\node_modules\\ansi-styles",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\wrap-ansi-cjs\\node_modules\\ansi-styles\\license"
+    },
+    "ansi-styles@6.2.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/ansi-styles",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ansi-styles",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ansi-styles\\license"
+    },
+    "asynckit@0.4.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/alexindigo/asynckit",
+        "publisher": "Alex Indigo",
+        "email": "iam@alexindigo.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\asynckit",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\asynckit\\LICENSE"
+    },
+    "await-lock@2.2.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ide/await-lock",
+        "publisher": "James Ide",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\await-lock",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\await-lock\\LICENSE"
+    },
+    "axios@1.20.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/axios/axios",
+        "publisher": "Matt Zabriskie",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\axios",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\axios\\LICENSE"
+    },
+    "balanced-match@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/juliangruber/balanced-match",
+        "publisher": "Julian Gruber",
+        "email": "mail@juliangruber.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\balanced-match",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\balanced-match\\LICENSE.md"
+    },
+    "base64-js@1.5.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/beatgammit/base64-js",
+        "publisher": "T. Jameson Little",
+        "email": "t.jameson.little@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\base64-js",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\base64-js\\LICENSE"
+    },
+    "bignumber.js@9.3.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/MikeMcl/bignumber.js",
+        "publisher": "Michael Mclaughlin",
+        "email": "M8ch88l@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\bignumber.js",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\bignumber.js\\LICENCE.md"
+    },
+    "body-parser@2.4.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expressjs/body-parser",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\body-parser",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\body-parser\\LICENSE"
+    },
+    "boolbase@1.0.0": {
+        "licenses": "ISC",
+        "repository": "https://github.com/fb55/boolbase",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\boolbase",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\boolbase\\README.md"
+    },
+    "bowser@2.15.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bowser-js/bowser",
+        "publisher": "Dustin Diaz",
+        "email": "dustin@dustindiaz.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\bowser",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\bowser\\LICENSE"
+    },
+    "brace-expansion@2.1.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/juliangruber/brace-expansion",
+        "publisher": "Julian Gruber",
+        "email": "mail@juliangruber.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\brace-expansion",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\brace-expansion\\LICENSE"
+    },
+    "buffer-equal-constant-time@1.0.1": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/goinstant/buffer-equal-constant-time",
+        "publisher": "GoInstant Inc., a salesforce.com company",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\buffer-equal-constant-time",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\buffer-equal-constant-time\\LICENSE.txt"
+    },
+    "buffer@5.6.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/feross/buffer",
+        "publisher": "Feross Aboukhadijeh",
+        "email": "feross@feross.org",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\buffer",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\buffer\\LICENSE"
+    },
+    "bullmq@6.5.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/taskforcesh/bullmq",
+        "publisher": "Taskforce.sh Inc.",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\bullmq",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\bullmq\\LICENSE"
+    },
+    "bytes@3.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/visionmedia/bytes.js",
+        "publisher": "TJ Holowaychuk",
+        "email": "tj@vision-media.ca",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\bytes",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\bytes\\LICENSE"
+    },
+    "call-bind-apply-helpers@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/call-bind-apply-helpers",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\call-bind-apply-helpers",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\call-bind-apply-helpers\\LICENSE"
+    },
+    "call-bound@1.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/call-bound",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\call-bound",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\call-bound\\LICENSE"
+    },
+    "cheerio-select@2.1.0": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/cheeriojs/cheerio-select",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cheerio-select",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cheerio-select\\LICENSE"
+    },
+    "cheerio@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/cheeriojs/cheerio",
+        "publisher": "Matt Mueller",
+        "email": "mattmuelle@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cheerio",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cheerio\\LICENSE"
+    },
+    "color-convert@2.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Qix-/color-convert",
+        "publisher": "Heather Arthur",
+        "email": "fayearthur@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\color-convert",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\color-convert\\LICENSE"
+    },
+    "color-name@1.1.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/colorjs/color-name",
+        "publisher": "DY",
+        "email": "dfcreative@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\color-name",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\color-name\\LICENSE"
+    },
+    "combined-stream@1.0.8": {
+        "licenses": "MIT",
+        "repository": "https://github.com/felixge/node-combined-stream",
+        "publisher": "Felix Geisendörfer",
+        "email": "felix@debuggable.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\combined-stream",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\combined-stream\\License"
+    },
+    "content-disposition@2.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/content-disposition",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\content-disposition",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\content-disposition\\LICENSE"
+    },
+    "content-type@1.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/content-type",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\content-type",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\content-type\\LICENSE"
+    },
+    "content-type@2.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/content-type",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\express\\node_modules\\content-type",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\express\\node_modules\\content-type\\LICENSE"
+    },
+    "cookie-signature@1.2.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/visionmedia/node-cookie-signature",
+        "publisher": "TJ Holowaychuk",
+        "email": "tj@learnboost.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cookie-signature",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cookie-signature\\LICENSE"
+    },
+    "cookie@0.7.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/cookie",
+        "publisher": "Roman Shtylman",
+        "email": "shtylman@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cookie",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cookie\\LICENSE"
+    },
+    "core-js@2.6.12": {
+        "licenses": "MIT",
+        "repository": "https://github.com/zloirock/core-js",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\core-js",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\core-js\\LICENSE"
+    },
+    "cors@2.8.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expressjs/cors",
+        "publisher": "Troy Goode",
+        "email": "troygoode@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cors",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cors\\LICENSE"
+    },
+    "cron-parser@5.10.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/harrisiirak/cron-parser",
+        "publisher": "Harri Siirak",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cron-parser",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cron-parser\\LICENSE"
+    },
+    "cross-spawn@7.0.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/moxystudio/node-cross-spawn",
+        "publisher": "André Cruz",
+        "email": "andre@moxy.studio",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cross-spawn",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\cross-spawn\\LICENSE"
+    },
+    "css-select@5.2.2": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/fb55/css-select",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\css-select",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\css-select\\LICENSE"
+    },
+    "css-what@6.2.2": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/fb55/css-what",
+        "publisher": "Felix Böhm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\css-what",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\css-what\\LICENSE"
+    },
+    "data-uri-to-buffer@4.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/TooTallNate/node-data-uri-to-buffer",
+        "publisher": "Nathan Rajlich",
+        "email": "nathan@tootallnate.net",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\data-uri-to-buffer",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\data-uri-to-buffer\\README.md"
+    },
+    "debug@4.4.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/debug-js/debug",
+        "publisher": "Josh Junon",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\debug",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\debug\\LICENSE"
+    },
+    "delayed-stream@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/felixge/node-delayed-stream",
+        "publisher": "Felix Geisendörfer",
+        "email": "felix@debuggable.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\delayed-stream",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\delayed-stream\\License"
+    },
+    "depd@2.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/dougwilson/nodejs-depd",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\depd",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\depd\\LICENSE"
+    },
+    "detect-libc@2.1.2": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/lovell/detect-libc",
+        "publisher": "Lovell Fuller",
+        "email": "npm@lovell.info",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\detect-libc",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\detect-libc\\LICENSE"
+    },
+    "dom-serializer@2.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/cheeriojs/dom-serializer",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\dom-serializer",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\dom-serializer\\LICENSE"
+    },
+    "domelementtype@2.3.0": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/fb55/domelementtype",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\domelementtype",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\domelementtype\\LICENSE"
+    },
+    "domhandler@5.0.3": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/fb55/domhandler",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\domhandler",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\domhandler\\LICENSE"
+    },
+    "domutils@3.2.2": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/fb55/domutils",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\domutils",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\domutils\\LICENSE"
+    },
+    "dunder-proto@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/dunder-proto",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\dunder-proto",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\dunder-proto\\LICENSE"
+    },
+    "eastasianwidth@0.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/komagata/eastasianwidth",
+        "publisher": "Masaki Komagata",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\eastasianwidth",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\eastasianwidth\\README.md"
+    },
+    "ecdsa-sig-formatter@1.0.11": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/Brightspace/node-ecdsa-sig-formatter",
+        "publisher": "D2L Corporation",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ecdsa-sig-formatter",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ecdsa-sig-formatter\\LICENSE"
+    },
+    "ee-first@1.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jonathanong/ee-first",
+        "publisher": "Jonathan Ong",
+        "email": "me@jongleberry.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ee-first",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ee-first\\LICENSE"
+    },
+    "emoji-regex@8.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/mathiasbynens/emoji-regex",
+        "publisher": "Mathias Bynens",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width-cjs\\node_modules\\emoji-regex",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width-cjs\\node_modules\\emoji-regex\\LICENSE-MIT.txt"
+    },
+    "emoji-regex@9.2.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/mathiasbynens/emoji-regex",
+        "publisher": "Mathias Bynens",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\emoji-regex",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\emoji-regex\\LICENSE-MIT.txt"
+    },
+    "encodeurl@2.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/pillarjs/encodeurl",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\encodeurl",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\encodeurl\\LICENSE"
+    },
+    "encoding-sniffer@0.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/fb55/encoding-sniffer",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\encoding-sniffer",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\encoding-sniffer\\LICENSE"
+    },
+    "entities@4.5.0": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/fb55/entities",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\entities",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\entities\\LICENSE"
+    },
+    "entities@6.0.1": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/fb55/entities",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parse5\\node_modules\\entities",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parse5\\node_modules\\entities\\LICENSE"
+    },
+    "es-define-property@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/es-define-property",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\es-define-property",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\es-define-property\\LICENSE"
+    },
+    "es-errors@1.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/es-errors",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\es-errors",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\es-errors\\LICENSE"
+    },
+    "es-object-atoms@1.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/es-object-atoms",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\es-object-atoms",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\es-object-atoms\\LICENSE"
+    },
+    "es-set-tostringtag@2.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/es-set-tostringtag",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\es-set-tostringtag",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\es-set-tostringtag\\LICENSE"
+    },
+    "escape-html@1.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/component/escape-html",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\escape-html",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\escape-html\\LICENSE"
+    },
+    "etag@1.8.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/etag",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\etag",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\etag\\LICENSE"
+    },
+    "events@3.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Gozala/events",
+        "publisher": "Irakli Gozalishvili",
+        "email": "rfobic@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\events",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\events\\LICENSE"
+    },
+    "eventsource-parser@3.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/rexxars/eventsource-parser",
+        "publisher": "Espen Hovlandsdal",
+        "email": "espen@hovlandsdal.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\eventsource-parser",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\eventsource-parser\\LICENSE"
+    },
+    "eventsource@3.0.7": {
+        "licenses": "MIT",
+        "repository": "git://git@github.com/EventSource/eventsource",
+        "publisher": "Espen Hovlandsdal",
+        "email": "espen@hovlandsdal.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\eventsource",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\eventsource\\LICENSE"
+    },
+    "express-rate-limit@8.7.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/express-rate-limit/express-rate-limit",
+        "publisher": "Nathan Friedly",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\express-rate-limit",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\express-rate-limit\\license"
+    },
+    "express@5.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expressjs/express",
+        "publisher": "TJ Holowaychuk",
+        "email": "tj@vision-media.ca",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\express",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\express\\LICENSE"
+    },
+    "extend@3.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/justmoon/node-extend",
+        "publisher": "Stefan Thomas",
+        "email": "justmoon@members.fsf.org",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\extend",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\extend\\LICENSE"
+    },
+    "fast-deep-equal@3.1.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/epoberezkin/fast-deep-equal",
+        "publisher": "Evgeny Poberezkin",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\fast-deep-equal",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\fast-deep-equal\\LICENSE"
+    },
+    "fast-uri@3.1.9": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/fastify/fast-uri",
+        "publisher": "Vincent Le Goff",
+        "email": "vince.legoff@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\fast-uri",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\fast-uri\\LICENSE"
+    },
+    "fetch-blob@3.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/node-fetch/fetch-blob",
+        "publisher": "Jimmy Wärting",
+        "email": "jimmy@warting.se",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\fetch-blob",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\fetch-blob\\LICENSE"
+    },
+    "finalhandler@2.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/pillarjs/finalhandler",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\finalhandler",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\finalhandler\\LICENSE"
+    },
+    "follow-redirects@1.16.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/follow-redirects/follow-redirects",
+        "publisher": "Ruben Verborgh",
+        "email": "ruben@verborgh.org",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\follow-redirects",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\follow-redirects\\LICENSE"
+    },
+    "foreground-child@3.3.1": {
+        "licenses": "ISC",
+        "repository": "https://github.com/tapjs/foreground-child",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\foreground-child",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\foreground-child\\LICENSE"
+    },
+    "form-data@4.0.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/form-data/form-data",
+        "publisher": "Felix Geisendörfer",
+        "email": "felix@debuggable.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\form-data",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\form-data\\License"
+    },
+    "formdata-polyfill@4.0.10": {
+        "licenses": "MIT",
+        "repository": "git+https://jimmywarting@github.com/jimmywarting/FormData",
+        "publisher": "Jimmy Wärting",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\formdata-polyfill",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\formdata-polyfill\\LICENSE"
+    },
+    "forwarded@0.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/forwarded",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\forwarded",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\forwarded\\LICENSE"
+    },
+    "fresh@2.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/fresh",
+        "publisher": "TJ Holowaychuk",
+        "email": "tj@vision-media.ca",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\fresh",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\fresh\\LICENSE"
+    },
+    "function-bind@1.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Raynos/function-bind",
+        "publisher": "Raynos",
+        "email": "raynos2@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\function-bind",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\function-bind\\LICENSE"
+    },
+    "gaxios@7.1.3": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node-core",
+        "publisher": "Google, LLC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\googleapis-common\\node_modules\\gaxios",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\googleapis-common\\node_modules\\gaxios\\LICENSE"
+    },
+    "gaxios@7.3.1": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node",
+        "publisher": "Google, LLC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\gaxios",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\gaxios\\LICENSE"
+    },
+    "gaxios@8.3.2": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node",
+        "publisher": "Google, LLC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\gaxios",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\gaxios\\LICENSE"
+    },
+    "gcp-metadata@8.1.2": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node-core",
+        "publisher": "Google LLC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\gcp-metadata",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\gcp-metadata\\LICENSE"
+    },
+    "gcp-metadata@9.2.2": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node",
+        "publisher": "Google LLC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\gcp-metadata",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\gcp-metadata\\LICENSE"
+    },
+    "get-intrinsic@1.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/get-intrinsic",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\get-intrinsic",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\get-intrinsic\\LICENSE"
+    },
+    "get-proto@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/get-proto",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\get-proto",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\get-proto\\LICENSE"
+    },
+    "glob@10.5.0": {
+        "licenses": "ISC",
+        "repository": "https://github.com/isaacs/node-glob",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\glob",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\glob\\LICENSE"
+    },
+    "google-auth-library@10.5.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-auth-library-nodejs",
+        "publisher": "Google Inc.",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\googleapis-common\\node_modules\\google-auth-library",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\googleapis-common\\node_modules\\google-auth-library\\LICENSE"
+    },
+    "google-auth-library@10.9.1": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node",
+        "publisher": "Google Inc.",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\google-auth-library",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\google-auth-library\\LICENSE"
+    },
+    "google-auth-library@11.3.1": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node",
+        "publisher": "Google Inc.",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\google-auth-library",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\google-auth-library\\LICENSE"
+    },
+    "google-logging-utils@1.1.3": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node-core",
+        "publisher": "Google API Authors",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\google-logging-utils",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\google-logging-utils\\LICENSE"
+    },
+    "google-logging-utils@2.1.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node",
+        "publisher": "Google API Authors",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\google-logging-utils",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\google-logging-utils\\LICENSE"
+    },
+    "googleapis-common@8.0.3": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node",
+        "publisher": "Google LLC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\googleapis-common",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\googleapis-common\\LICENSE"
+    },
+    "googleapis-common@9.3.1": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-cloud-node",
+        "publisher": "Google LLC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\googleapis-common",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\googleapis-common\\LICENSE"
+    },
+    "googleapis@150.0.1": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-api-nodejs-client",
+        "publisher": "Google Inc.",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\googleapis",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\googleapis\\LICENSE"
+    },
+    "googleapis@188.0.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/googleapis/google-api-nodejs-client",
+        "publisher": "Google Inc.",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\googleapis",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\googleapis\\LICENSE"
+    },
+    "gopd@1.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/gopd",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\gopd",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\gopd\\LICENSE"
+    },
+    "gtoken@8.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/google/node-gtoken",
+        "publisher": "Google, LLC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\gtoken",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\gtoken\\LICENSE"
+    },
+    "has-symbols@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/has-symbols",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\has-symbols",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\has-symbols\\LICENSE"
+    },
+    "has-tostringtag@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/has-tostringtag",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\has-tostringtag",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\has-tostringtag\\LICENSE"
+    },
+    "hasown@2.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/hasOwn",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\hasown",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\hasown\\LICENSE"
+    },
+    "hono@4.13.14": {
+        "licenses": "MIT",
+        "repository": "https://github.com/honojs/hono",
+        "publisher": "Yusuke Wada",
+        "email": "yusuke@kamawada.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\hono",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\hono\\LICENSE"
+    },
+    "htmlparser2@9.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/fb55/htmlparser2",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\htmlparser2",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\htmlparser2\\LICENSE"
+    },
+    "http-errors@2.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/http-errors",
+        "publisher": "Jonathan Ong",
+        "email": "me@jongleberry.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\http-errors",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\http-errors\\LICENSE"
+    },
+    "https-proxy-agent@5.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/TooTallNate/node-https-proxy-agent",
+        "publisher": "Nathan Rajlich",
+        "email": "nathan@tootallnate.net",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\https-proxy-agent",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\https-proxy-agent\\README.md"
+    },
+    "https-proxy-agent@7.0.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/TooTallNate/proxy-agents",
+        "publisher": "Nathan Rajlich",
+        "email": "nathan@tootallnate.net",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\https-proxy-agent",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@simple-post\\sdk\\node_modules\\https-proxy-agent\\LICENSE"
+    },
+    "iconv-lite@0.6.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ashtuchkin/iconv-lite",
+        "publisher": "Alexander Shtuchkin",
+        "email": "ashtuchkin@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\iconv-lite",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\iconv-lite\\LICENSE"
+    },
+    "iconv-lite@0.7.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/pillarjs/iconv-lite",
+        "publisher": "Alexander Shtuchkin",
+        "email": "ashtuchkin@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\body-parser\\node_modules\\iconv-lite",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\body-parser\\node_modules\\iconv-lite\\LICENSE"
+    },
+    "ieee754@1.2.1": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/feross/ieee754",
+        "publisher": "Feross Aboukhadijeh",
+        "email": "feross@feross.org",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ieee754",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ieee754\\LICENSE"
+    },
+    "inherits@2.0.4": {
+        "licenses": "ISC",
+        "repository": "https://github.com/isaacs/inherits",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\inherits",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\inherits\\LICENSE"
+    },
+    "ip-address@10.7.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/beaugunderson/ip-address",
+        "publisher": "Beau Gunderson",
+        "email": "beau@beaugunderson.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ip-address",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ip-address\\LICENSE"
+    },
+    "ipaddr.js@1.9.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/whitequark/ipaddr.js",
+        "publisher": "whitequark",
+        "email": "whitequark@whitequark.org",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\proxy-addr\\node_modules\\ipaddr.js",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\proxy-addr\\node_modules\\ipaddr.js\\LICENSE"
+    },
+    "ipaddr.js@2.5.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/whitequark/ipaddr.js",
+        "publisher": "whitequark",
+        "email": "whitequark@whitequark.org",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ipaddr.js",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ipaddr.js\\LICENSE"
+    },
+    "is-fullwidth-code-point@3.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/is-fullwidth-code-point",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\is-fullwidth-code-point",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\is-fullwidth-code-point\\license"
+    },
+    "is-promise@4.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/then/is-promise",
+        "publisher": "ForbesLindesay",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\is-promise",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\is-promise\\LICENSE"
+    },
+    "isexe@2.0.0": {
+        "licenses": "ISC",
+        "repository": "https://github.com/isaacs/isexe",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\isexe",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\isexe\\LICENSE"
+    },
+    "iso-datestring-validator@2.2.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Bwca/iso-datestring-validator",
+        "publisher": "Volodymyr Yepishev",
+        "email": "i.m.bwca@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\iso-datestring-validator",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\iso-datestring-validator\\LICENSE"
+    },
+    "jackspeak@3.4.3": {
+        "licenses": "BlueOak-1.0.0",
+        "repository": "https://github.com/isaacs/jackspeak",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\jackspeak",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\jackspeak\\LICENSE.md"
+    },
+    "jose@6.2.13": {
+        "licenses": "MIT",
+        "repository": "https://github.com/panva/jose",
+        "publisher": "Filip Skokan",
+        "email": "panva.ip@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\jose",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\jose\\LICENSE.md"
+    },
+    "json-bigint@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sidorares/json-bigint",
+        "publisher": "Andrey Sidorov",
+        "email": "sidorares@yandex.ru",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\json-bigint",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\json-bigint\\LICENSE"
+    },
+    "json-schema-traverse@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/epoberezkin/json-schema-traverse",
+        "publisher": "Evgeny Poberezkin",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\json-schema-traverse",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\json-schema-traverse\\LICENSE"
+    },
+    "json-schema-typed@8.0.2": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/RemyRylan/json-schema-typed",
+        "publisher": "Remy Rylan",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\json-schema-typed",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\json-schema-typed\\LICENSE.md"
+    },
+    "jwa@2.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/brianloveswords/node-jwa",
+        "publisher": "Brian J. Brennan",
+        "email": "brianloveswords@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\jwa",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\jwa\\LICENSE"
+    },
+    "jws@4.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/brianloveswords/node-jws",
+        "publisher": "Brian J Brennan",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\jws",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\jws\\LICENSE"
+    },
+    "lru-cache@10.4.3": {
+        "licenses": "ISC",
+        "repository": "https://github.com/isaacs/node-lru-cache",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\lru-cache",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\lru-cache\\LICENSE"
+    },
+    "luxon@3.7.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/moment/luxon",
+        "publisher": "Isaac Cambron",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\luxon",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\luxon\\LICENSE.md"
+    },
+    "math-intrinsics@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/es-shims/math-intrinsics",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\math-intrinsics",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\math-intrinsics\\LICENSE"
+    },
+    "media-typer@1.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/media-typer",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\media-typer",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\media-typer\\LICENSE"
+    },
+    "merge-descriptors@2.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/merge-descriptors",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\merge-descriptors",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\merge-descriptors\\license"
+    },
+    "mime-db@1.52.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/mime-db",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\form-data\\node_modules\\mime-db",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\form-data\\node_modules\\mime-db\\LICENSE"
+    },
+    "mime-db@1.54.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/mime-db",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\mime-db",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\mime-db\\LICENSE"
+    },
+    "mime-types@2.1.35": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/mime-types",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\form-data\\node_modules\\mime-types",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\form-data\\node_modules\\mime-types\\LICENSE"
+    },
+    "mime-types@3.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/mime-types",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\mime-types",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\mime-types\\LICENSE"
+    },
+    "minimatch@9.0.9": {
+        "licenses": "ISC",
+        "repository": "https://github.com/isaacs/minimatch",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\minimatch",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\minimatch\\LICENSE"
+    },
+    "minipass@7.1.3": {
+        "licenses": "BlueOak-1.0.0",
+        "repository": "https://github.com/isaacs/minipass",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\minipass",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\minipass\\LICENSE.md"
+    },
+    "ms@2.1.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/vercel/ms",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ms",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\ms\\license.md"
+    },
+    "msgpackr-extract@3.0.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/kriszyp/msgpackr-extract",
+        "publisher": "Kris Zyp",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\msgpackr-extract",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\msgpackr-extract\\LICENSE"
+    },
+    "msgpackr@2.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/kriszyp/msgpackr",
+        "publisher": "Kris Zyp",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\msgpackr",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\msgpackr\\LICENSE"
+    },
+    "multiformats@9.9.0": {
+        "licenses": "(Apache-2.0 AND MIT)",
+        "repository": "https://github.com/multiformats/js-multiformats",
+        "publisher": "Mikeal Rogers",
+        "email": "mikeal.rogers@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\multiformats",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\multiformats\\LICENSE-APACHE"
+    },
+    "negotiator@1.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/negotiator",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\negotiator",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\negotiator\\LICENSE"
+    },
+    "node-abort-controller@3.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/southpolesteve/node-abort-controller",
+        "publisher": "Steve Faulkner",
+        "email": "southpolesteve@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\node-abort-controller",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\node-abort-controller\\LICENSE"
+    },
+    "node-domexception@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jimmywarting/node-domexception",
+        "publisher": "Jimmy Wärting",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\node-domexception",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\node-domexception\\LICENSE"
+    },
+    "node-fetch@3.3.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/node-fetch/node-fetch",
+        "publisher": "David Frank",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\node-fetch",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\node-fetch\\LICENSE.md"
+    },
+    "node-gyp-build-optional-packages@5.2.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/prebuild/node-gyp-build",
+        "publisher": "Mathias Buus",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\node-gyp-build-optional-packages",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\node-gyp-build-optional-packages\\LICENSE"
+    },
+    "non-error@0.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/non-error",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\non-error",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\non-error\\license"
+    },
+    "nth-check@2.1.1": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/fb55/nth-check",
+        "publisher": "Felix Boehm",
+        "email": "me@feedic.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\nth-check",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\nth-check\\LICENSE"
+    },
+    "object-assign@4.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/object-assign",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\object-assign",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\object-assign\\license"
+    },
+    "object-inspect@1.13.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inspect-js/object-inspect",
+        "publisher": "James Halliday",
+        "email": "mail@substack.net",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\object-inspect",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\object-inspect\\LICENSE"
+    },
+    "on-finished@2.4.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/on-finished",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\on-finished",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\on-finished\\LICENSE"
+    },
+    "once@1.4.0": {
+        "licenses": "ISC",
+        "repository": "https://github.com/isaacs/once",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\once",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\once\\LICENSE"
+    },
+    "package-json-from-dist@1.0.1": {
+        "licenses": "BlueOak-1.0.0",
+        "repository": "https://github.com/isaacs/package-json-from-dist",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\package-json-from-dist",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\package-json-from-dist\\LICENSE.md"
+    },
+    "parse5-htmlparser2-tree-adapter@7.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inikulin/parse5",
+        "publisher": "Ivan Nikulin",
+        "email": "ifaaan@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parse5-htmlparser2-tree-adapter",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parse5-htmlparser2-tree-adapter\\LICENSE"
+    },
+    "parse5-parser-stream@7.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inikulin/parse5",
+        "publisher": "Ivan Nikulin",
+        "email": "ifaaan@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parse5-parser-stream",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parse5-parser-stream\\LICENSE"
+    },
+    "parse5@7.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/inikulin/parse5",
+        "publisher": "Ivan Nikulin",
+        "email": "ifaaan@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parse5",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parse5\\LICENSE"
+    },
+    "parseurl@1.3.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/pillarjs/parseurl",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parseurl",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\parseurl\\LICENSE"
+    },
+    "path-key@3.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/path-key",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\path-key",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\path-key\\license"
+    },
+    "path-scurry@1.11.1": {
+        "licenses": "BlueOak-1.0.0",
+        "repository": "https://github.com/isaacs/path-scurry",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\path-scurry",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\path-scurry\\LICENSE.md"
+    },
+    "path-to-regexp@8.4.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/pillarjs/path-to-regexp",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\path-to-regexp",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\path-to-regexp\\LICENSE"
+    },
+    "pg-boss@12.38.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/timgit/pg-boss",
+        "publisher": "timgit",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-boss",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-boss\\LICENSE"
+    },
+    "pg-cloudflare@1.4.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/brianc/node-postgres",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-cloudflare",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-cloudflare\\LICENSE"
+    },
+    "pg-connection-string@2.14.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/brianc/node-postgres",
+        "publisher": "Blaine Bublitz",
+        "email": "blaine@iceddev.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-connection-string",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-connection-string\\LICENSE"
+    },
+    "pg-int8@1.0.1": {
+        "licenses": "ISC",
+        "repository": "https://github.com/charmander/pg-int8",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-int8",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-int8\\LICENSE"
+    },
+    "pg-pool@3.14.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/brianc/node-postgres",
+        "publisher": "Brian M. Carlson",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-pool",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-pool\\LICENSE"
+    },
+    "pg-protocol@1.16.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/brianc/node-postgres",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-protocol",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-protocol\\LICENSE"
+    },
+    "pg-types@2.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/brianc/node-pg-types",
+        "publisher": "Brian M. Carlson",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-types",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg-types\\README.md"
+    },
+    "pg@8.23.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/brianc/node-postgres",
+        "publisher": "Brian Carlson",
+        "email": "brian.m.carlson@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pg\\LICENSE"
+    },
+    "pgpass@1.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/hoegaarden/pgpass",
+        "publisher": "Hannes Hörl",
+        "email": "hannes.hoerl+pgpass@snowreporter.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pgpass",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pgpass\\README.md"
+    },
+    "pkce-challenge@5.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/crouchcd/pkce-challenge",
+        "publisher": "crouchcd",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pkce-challenge",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\pkce-challenge\\LICENSE"
+    },
+    "postgres-array@2.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bendrucker/postgres-array",
+        "publisher": "Ben Drucker",
+        "email": "bvdrucker@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\postgres-array",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\postgres-array\\license"
+    },
+    "postgres-bytea@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bendrucker/postgres-bytea",
+        "publisher": "Ben Drucker",
+        "email": "bvdrucker@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\postgres-bytea",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\postgres-bytea\\license"
+    },
+    "postgres-date@1.0.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bendrucker/postgres-date",
+        "publisher": "Ben Drucker",
+        "email": "bvdrucker@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\postgres-date",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\postgres-date\\license"
+    },
+    "postgres-interval@1.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bendrucker/postgres-interval",
+        "publisher": "Ben Drucker",
+        "email": "bvdrucker@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\postgres-interval",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\postgres-interval\\license"
+    },
+    "proxy-addr@2.0.8": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/proxy-addr",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\proxy-addr",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\proxy-addr\\LICENSE"
+    },
+    "proxy-from-env@2.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Rob--W/proxy-from-env",
+        "publisher": "Rob Wu",
+        "email": "rob@robwu.nl",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\proxy-from-env",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\proxy-from-env\\LICENSE"
+    },
+    "punycode@1.4.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bestiejs/punycode.js",
+        "publisher": "Mathias Bynens",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\punycode",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\punycode\\LICENSE-MIT.txt"
+    },
+    "qs@6.16.1": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/ljharb/qs",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\qs",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\qs\\LICENSE.md"
+    },
+    "range-parser@1.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/range-parser",
+        "publisher": "TJ Holowaychuk",
+        "email": "tj@vision-media.ca",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\range-parser",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\range-parser\\LICENSE"
+    },
+    "raw-body@3.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/stream-utils/raw-body",
+        "publisher": "Jonathan Ong",
+        "email": "me@jongleberry.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\raw-body",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\raw-body\\LICENSE"
+    },
+    "readable-stream@3.6.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/nodejs/readable-stream",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\readable-stream",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\readable-stream\\LICENSE"
+    },
+    "require-from-string@2.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/floatdrop/require-from-string",
+        "publisher": "Vsevolod Strukchinsky",
+        "email": "floatdrop@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\require-from-string",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\require-from-string\\license"
+    },
+    "rimraf@5.0.10": {
+        "licenses": "ISC",
+        "repository": "https://github.com/isaacs/rimraf",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\rimraf",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\rimraf\\LICENSE"
+    },
+    "router@2.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/pillarjs/router",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\router",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\router\\LICENSE"
+    },
+    "rrule-temporal@2.2.8": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ggaabe/rrule-temporal",
+        "publisher": "ggaabe",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\rrule-temporal",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\rrule-temporal\\LICENSE"
+    },
+    "safe-buffer@5.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/feross/safe-buffer",
+        "publisher": "Feross Aboukhadijeh",
+        "email": "feross@feross.org",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\safe-buffer",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\safe-buffer\\LICENSE"
+    },
+    "safer-buffer@2.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ChALkeR/safer-buffer",
+        "publisher": "Nikita Skovoroda",
+        "email": "chalkerx@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\safer-buffer",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\safer-buffer\\LICENSE"
+    },
+    "sdk-consumer@1.0.0": {
+        "licenses": "ISC",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer"
+    },
+    "semver@7.8.5": {
+        "licenses": "ISC",
+        "repository": "https://github.com/npm/node-semver",
+        "publisher": "GitHub Inc.",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\semver",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\semver\\LICENSE"
+    },
+    "send@1.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/pillarjs/send",
+        "publisher": "TJ Holowaychuk",
+        "email": "tj@vision-media.ca",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\send",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\send\\LICENSE"
+    },
+    "serialize-error@13.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/serialize-error",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\serialize-error",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\serialize-error\\license"
+    },
+    "serve-static@2.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expressjs/serve-static",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\serve-static",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\serve-static\\LICENSE"
+    },
+    "setprototypeof@1.2.0": {
+        "licenses": "ISC",
+        "repository": "https://github.com/wesleytodd/setprototypeof",
+        "publisher": "Wes Todd",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\setprototypeof",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\setprototypeof\\LICENSE"
+    },
+    "sharp@0.34.5": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/lovell/sharp",
+        "publisher": "Lovell Fuller",
+        "email": "npm@lovell.info",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\sharp",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\sharp\\LICENSE"
+    },
+    "shebang-command@2.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/kevva/shebang-command",
+        "publisher": "Kevin Mårtensson",
+        "email": "kevinmartensson@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\shebang-command",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\shebang-command\\license"
+    },
+    "shebang-regex@3.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/shebang-regex",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\shebang-regex",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\shebang-regex\\license"
+    },
+    "side-channel-list@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/side-channel-list",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\side-channel-list",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\side-channel-list\\LICENSE"
+    },
+    "side-channel-map@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/side-channel-map",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\side-channel-map",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\side-channel-map\\LICENSE"
+    },
+    "side-channel-weakmap@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/side-channel-weakmap",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\side-channel-weakmap",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\side-channel-weakmap\\LICENSE"
+    },
+    "side-channel@1.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ljharb/side-channel",
+        "publisher": "Jordan Harband",
+        "email": "ljharb@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\side-channel",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\side-channel\\LICENSE"
+    },
+    "signal-exit@4.1.0": {
+        "licenses": "ISC",
+        "repository": "https://github.com/tapjs/signal-exit",
+        "publisher": "Ben Coe",
+        "email": "ben@npmjs.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\signal-exit",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\signal-exit\\LICENSE.txt"
+    },
+    "split2@4.2.0": {
+        "licenses": "ISC",
+        "repository": "https://github.com/mcollina/split2",
+        "publisher": "Matteo Collina",
+        "email": "hello@matteocollina.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\split2",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\split2\\LICENSE"
+    },
+    "statuses@2.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/statuses",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\statuses",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\statuses\\LICENSE"
+    },
+    "stream-browserify@3.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/browserify/stream-browserify",
+        "publisher": "James Halliday",
+        "email": "mail@substack.net",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\stream-browserify",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\stream-browserify\\LICENSE"
+    },
+    "string-width@4.2.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/string-width",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width-cjs",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width-cjs\\license"
+    },
+    "string-width@5.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/string-width",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width\\license"
+    },
+    "string_decoder@1.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/nodejs/string_decoder",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string_decoder",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string_decoder\\LICENSE"
+    },
+    "strip-ansi@6.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/strip-ansi",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width-cjs\\node_modules\\strip-ansi",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\string-width-cjs\\node_modules\\strip-ansi\\license"
+    },
+    "strip-ansi@7.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/strip-ansi",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\strip-ansi",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\strip-ansi\\license"
+    },
+    "tagged-tag@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/tagged-tag",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\tagged-tag",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\tagged-tag\\license"
+    },
+    "temporal-spec@1.0.1": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/fullcalendar/temporal-polyfill",
+        "publisher": "Adam Shaw",
+        "email": "arshaw@users.noreply.github.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\temporal-spec",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\temporal-spec\\LICENSE"
+    },
+    "tlds@1.261.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/stephenmathieson/node-tlds",
+        "publisher": "Stephen Mathieson",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\tlds",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\tlds\\LICENSE"
+    },
+    "toidentifier@1.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/component/toidentifier",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\toidentifier",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\toidentifier\\LICENSE"
+    },
+    "tslib@2.8.1": {
+        "licenses": "0BSD",
+        "repository": "https://github.com/Microsoft/tslib",
+        "publisher": "Microsoft Corp.",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\tslib",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\tslib\\LICENSE.txt"
+    },
+    "twemoji-parser@11.0.2": {
+        "licenses": "MIT",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\twemoji-parser",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\twemoji-parser\\LICENSE.md"
+    },
+    "twitter-api-v2@1.31.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/plhery/node-twitter-api-v2",
+        "publisher": "Paul-Louis Hery",
+        "email": "paullouis.hery+twitterapi@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\twitter-api-v2",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\twitter-api-v2\\LICENSE"
+    },
+    "twitter-text@3.1.0": {
+        "licenses": "Apache*",
+        "repository": "https://github.com/twitter/twitter-text",
+        "publisher": "Twitter Inc.",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\twitter-text",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\twitter-text\\LICENSE"
+    },
+    "type-fest@5.10.0": {
+        "licenses": "(MIT OR CC0-1.0)",
+        "repository": "https://github.com/sindresorhus/type-fest",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\type-fest",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\type-fest\\license-cc0"
+    },
+    "type-is@2.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/type-is",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\type-is",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\type-is\\LICENSE"
+    },
+    "uint8arrays@3.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/achingbrain/uint8arrays",
+        "publisher": "Alex Potsides",
+        "email": "alex@achingbrain.net",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\uint8arrays",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\uint8arrays\\README.md"
+    },
+    "undici@6.29.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/nodejs/undici",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\undici",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\undici\\LICENSE"
+    },
+    "unicode-segmenter@0.14.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/cometkim/unicode-segmenter",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\unicode-segmenter",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\unicode-segmenter\\LICENSE"
+    },
+    "unpipe@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/stream-utils/unpipe",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\unpipe",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\unpipe\\LICENSE"
+    },
+    "url-template@2.0.8": {
+        "licenses": "BSD*",
+        "repository": "https://github.com/bramstein/url-template",
+        "publisher": "Bram Stein",
+        "email": "b.l.stein@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\url-template",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\url-template\\LICENSE"
+    },
+    "util-deprecate@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/TooTallNate/util-deprecate",
+        "publisher": "Nathan Rajlich",
+        "email": "nathan@tootallnate.net",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\util-deprecate",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\util-deprecate\\LICENSE"
+    },
+    "uuid@11.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/uuidjs/uuid",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\uuid",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\uuid\\LICENSE.md"
+    },
+    "vary@1.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshttp/vary",
+        "publisher": "Douglas Christopher Wilson",
+        "email": "doug@somethingdoug.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\vary",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\vary\\LICENSE"
+    },
+    "web-streams-polyfill@3.3.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/MattiasBuelens/web-streams-polyfill",
+        "publisher": "Mattias Buelens",
+        "email": "mattias@buelens.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\web-streams-polyfill",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\web-streams-polyfill\\LICENSE"
+    },
+    "whatwg-encoding@3.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jsdom/whatwg-encoding",
+        "publisher": "Domenic Denicola",
+        "email": "d@domenic.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\whatwg-encoding",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\whatwg-encoding\\LICENSE.txt"
+    },
+    "whatwg-mimetype@4.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jsdom/whatwg-mimetype",
+        "publisher": "Domenic Denicola",
+        "email": "d@domenic.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\whatwg-mimetype",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\whatwg-mimetype\\LICENSE.txt"
+    },
+    "which@2.0.2": {
+        "licenses": "ISC",
+        "repository": "https://github.com/isaacs/node-which",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\which",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\which\\LICENSE"
+    },
+    "wrap-ansi@7.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/wrap-ansi",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\wrap-ansi-cjs",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\wrap-ansi-cjs\\license"
+    },
+    "wrap-ansi@8.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chalk/wrap-ansi",
+        "publisher": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\wrap-ansi",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\wrap-ansi\\license"
+    },
+    "wrappy@1.0.2": {
+        "licenses": "ISC",
+        "repository": "https://github.com/npm/wrappy",
+        "publisher": "Isaac Z. Schlueter",
+        "email": "i@izs.me",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\wrappy",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\wrappy\\LICENSE"
+    },
+    "xtend@4.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Raynos/xtend",
+        "publisher": "Raynos",
+        "email": "raynos2@gmail.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\xtend",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\xtend\\LICENSE"
+    },
+    "zod-to-json-schema@3.25.2": {
+        "licenses": "ISC",
+        "repository": "https://github.com/StefanTerdell/zod-to-json-schema",
+        "publisher": "Stefan Terdell",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\zod-to-json-schema",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\zod-to-json-schema\\LICENSE"
+    },
+    "zod@3.25.76": {
+        "licenses": "MIT",
+        "repository": "https://github.com/colinhacks/zod",
+        "publisher": "Colin McDonnell",
+        "email": "zod@colinhacks.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\api\\node_modules\\zod",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\@atproto\\api\\node_modules\\zod\\LICENSE"
+    },
+    "zod@4.6.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/colinhacks/zod",
+        "publisher": "Colin McDonnell",
+        "email": "zod@colinhacks.com",
+        "path": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\zod",
+        "licenseFile": "C:\\Users\\Anjinappa N\\AppData\\Local\\Temp\\claude\\d--WORK-SPACE-AutoCast\\7206d78c-cd19-4233-9bdb-bd6b7713f260\\scratchpad\\audit\\sdk-consumer\\node_modules\\zod\\LICENSE"
+    }
+}
+
